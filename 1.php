@@ -7,7 +7,7 @@
     <h1>Hello, World!</h1>
     <?php
     // Ini adalah kode PHP
-    echo "Ini adalah pesan dari PHP.";
+    echo "Ini adalah contoh pesan dari PHP.";
     ?>
 </body>
 </html>
